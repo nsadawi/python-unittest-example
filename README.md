@@ -4,7 +4,6 @@
 
 **Follow thse Steps:**
 
-
 1. install package nose and mock by command
 ```
 pip install -r requirements.txt
