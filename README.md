@@ -2,7 +2,7 @@
 # I use it as part of my Jenkins training
 
 
-**Steps:**
+**Follow thse Steps:**
 
 1. install package nose and mock by command
 ```
